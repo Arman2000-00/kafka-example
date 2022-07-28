@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-example.iml" filepath="$PROJECT_DIR$/kafka-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_listener/kafka_example.iml" filepath="$PROJECT_DIR$/kafka_listener/kafka_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_producer/kafka_example (1).iml" filepath="$PROJECT_DIR$/kafka_producer/kafka_example (1).iml" />
+    </modules>
+  </component>
+</project>
